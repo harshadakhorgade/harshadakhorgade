@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate learner and developer exploring t
 ---
 
 ## 🔧 Technologies I Work With
-- **Programming Languages**: Python, JavaScript
+- **Programming Languages**: Python
 - **Frameworks**: Django, Flask
 - **Frontend**: HTML, CSS, Bootstrap
 - **Tools**: Git, VS Code, Pycharm
