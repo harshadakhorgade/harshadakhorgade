@@ -4,9 +4,14 @@ Welcome to my GitHub profile! I'm a passionate learner and developer exploring t
 
 ---
 
-## 🌱 Currently Learning
-- 🐍 **Python**: Building projects and diving deep into its vast ecosystem.
-- 💻 **Web Development**: Crafting engaging user experiences.
+## 🌱 Currently Learning  
+- 🐍 **Python**: Building projects and diving deep into its vast ecosystem.  
+- 💻 **Web Development**: Crafting engaging user experiences.  
+- ☁️ **AWS**: Exploring and gaining hands-on experience with cloud infrastructure and services to optimize and scale applications.
+
+---
+
+This version keeps it general, focusing on your learning of AWS as a whole.
 
 
 ---
@@ -18,9 +23,14 @@ Welcome to my GitHub profile! I'm a passionate learner and developer exploring t
 
 ---
 
-## 📫 How to Reach Me
+## 📫 How to Reach Me  
 - 📧 **Email**: [harshadakhorgade9@gmail.com](mailto:harshadakhorgade9@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/harshada-khorgade9](https://www.linkedin.com/in/harshada-khorgade9/)
+- 💼 **LinkedIn**: [linkedin.com/in/harshada-khorgade9](https://www.linkedin.com/in/harshada-khorgade9/)  
+- 🏆 **HackerRank**: [HackerRank Profile](https://www.hackerrank.com/your-profile-link)](https://www.hackerrank.com/profile/harshadakhorgad1)
+
+---
+
+Just replace `your-profile-link` with your actual HackerRank profile link, and it will make your contact details more comprehensive.
 
 ---
 
