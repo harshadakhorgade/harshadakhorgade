@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a passionate learner and developer exploring t
 
 ---
 
-This version keeps it general, focusing on your learning of AWS as a whole.
 
 
 ---
@@ -26,11 +25,10 @@ This version keeps it general, focusing on your learning of AWS as a whole.
 ## 📫 How to Reach Me  
 - 📧 **Email**: [harshadakhorgade9@gmail.com](mailto:harshadakhorgade9@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/harshada-khorgade9](https://www.linkedin.com/in/harshada-khorgade9/)  
-- 🏆 **HackerRank**: [HackerRank Profile](https://www.hackerrank.com/your-profile-link)](https://www.hackerrank.com/profile/harshadakhorgad1)
+- 🏆 **HackerRank**: (https://www.hackerrank.com/your-profile-link)](https://www.hackerrank.com/profile/harshadakhorgad1)
 
 ---
 
-Just replace `your-profile-link` with your actual HackerRank profile link, and it will make your contact details more comprehensive.
 
 ---
 
@@ -39,6 +37,7 @@ Just replace `your-profile-link` with your actual HackerRank profile link, and i
 - **Frameworks**: Django, Flask
 - **Frontend**: HTML, CSS, Bootstrap
 - **Tools**: Git, VS Code, Pycharm
+- **Cloud**:AWS
 
 ---
 
