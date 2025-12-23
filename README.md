@@ -8,6 +8,8 @@ Welcome to my GitHub profile! I'm a passionate learner and developer exploring t
 - 🐍 **Python**: Building projects and diving deep into its vast ecosystem.  
 - 💻 **Web Development**: Crafting engaging user experiences.  
 - ☁️ **AWS**: Exploring and gaining hands-on experience with cloud infrastructure and services to optimize and scale applications.
+- 🤖 **RAG & LLMs**: Embeddings, vector databases, and semantic search.
+
 
 ---
 
@@ -33,11 +35,15 @@ Welcome to my GitHub profile! I'm a passionate learner and developer exploring t
 ---
 
 ## 🔧 Technologies I Work With
-- **Programming Languages**: Python
-- **Frameworks**: Django, Flask
-- **Frontend**: HTML, CSS, Bootstrap
-- **Tools**: Git, VS Code, Pycharm
-- **Cloud**:AWS
+- **Programming Languages**: Python  
+- **Frameworks**: Django, Django REST Framework, Flask  
+- **Frontend**: HTML, CSS, Bootstrap  
+- **AI / LLM**: Retrieval-Augmented Generation (RAG), LLMs, Embeddings, Vector Databases (Pinecone, Chroma), Semantic Search  
+- **Databases**: MySQL, AWS RDS  
+- **Cloud**: AWS (EC2, S3, RDS, IAM)  
+- **DevOps & Tools**: Git, GitHub, Docker, CI/CD, GitHub Actions  
+- **Development Tools**: VS Code, PyCharm, Postman  
+
 
 ---
 
