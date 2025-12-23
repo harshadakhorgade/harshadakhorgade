@@ -26,7 +26,6 @@ Welcome to my GitHub profile! I'm a passionate learner and developer exploring t
 
 ## 📫 How to Reach Me  
 - 📧 **Email**: [harshadakhorgade9@gmail.com](mailto:harshadakhorgade9@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/harshada-khorgade9](https://www.linkedin.com/in/harshada-khorgade/)  
 - 🏆 **HackerRank**: (https://www.hackerrank.com/your-profile-link)](https://www.hackerrank.com/profile/harshadakhorgad1)
 
 ---
